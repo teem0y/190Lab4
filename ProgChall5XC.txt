@@ -1,0 +1,4 @@
+Enter a String: Java is a great programming language!
+Enter the char to be assessed: a
+In the phrase: Java is a great programming language!
+There are 7 a's

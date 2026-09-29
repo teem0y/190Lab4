@@ -1,0 +1,8 @@
+Number 1 is: 231
+Number 2 is: 563
+Number 3 is: 621
+
+NUMBER BAR CHART
+Number 1: **
+Number 2: *****
+Number 3: ******
